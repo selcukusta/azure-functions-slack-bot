@@ -1,2 +1,5 @@
-# azure-functions-slack-bot
-Create Slack Bot With Azure Functions
+# Create Slack Bot With Azure Functions
+
+Prerequests:
+- Azure Account and Subscription
+- Slack Workspace
